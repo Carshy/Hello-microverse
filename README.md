@@ -1,5 +1,7 @@
-# Hello-microverse
-This project provides an introduction to microverse program standards for github. There is no complicated coding for this project. 
+# Set-up a 'Hello-microverse' Project
+This is 'Hello-Microverse' project. The project is to help new students understand the basic requirements when designing a program. It helps new students get acquainted with microverse tools and workflows.   
 # Built with
 * Html
 * CSS
+# Live Demo
+[Live Demo Lik](http://127.0.0.1:5500/Hello-microverse/index.html)
